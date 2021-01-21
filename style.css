@@ -1,0 +1,51 @@
+body {
+  height: 1000px;
+  width: 1250px;
+  margin: auto;
+  position:relative;
+}
+
+
+header div {
+  background-color: gray;
+}
+
+.logo {
+  margin: 15px 15px 15px 105px;
+}
+
+.nav{
+  display: inline;
+  position:relative;
+  bottom: 40px;
+  margin: 50px;
+}
+
+.hero {
+  display: block;
+  margin: 15px auto 15px auto;
+}
+
+.banner {
+  display: table;
+  margin: 15px auto 15px auto;
+}
+
+.bannerPic {
+  margin: 15px;
+
+}
+
+.section {
+  display: block;
+  margin: 15px 15px 15px 145px;
+}
+
+.featureContainer {
+  display: block;
+  float: right;
+  width: 300px;
+  height: 300px;
+  overflow: scroll;
+  margin: 125px 15px 15px 15px;
+}
